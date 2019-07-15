@@ -7,22 +7,23 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn serve
+```
+```
+yarn electron:serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+yarn build
 ```
-
-### Run your tests
 ```
-yarn run test
+yarn electron:build
 ```
 
 ### Lints and fixes files
 ```
-yarn run lint
+yarn lint
 ```
 
 ### Customize configuration
